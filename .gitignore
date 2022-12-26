@@ -1,0 +1,36 @@
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Uu]serSettings/
+Assets/AssetStoreTools*
+Packages/packages-lock.json
+
+# Папки с билдом под каждую версию
+ar_BackUpThisFolder_ButDontShipItWithYourGame/
+ar-v1_BackUpThisFolder_ButDontShipItWithYourGame/
+ar-v2_BackUpThisFolder_ButDontShipItWithYourGame/
+ar-v3_BackUpThisFolder_ButDontShipItWithYourGame/
+ar-v4_BackUpThisFolder_ButDontShipItWithYourGame/
+ar-v5_BackUpThisFolder_ButDontShipItWithYourGame/
+ar-v6_BackUpThisFolder_ButDontShipItWithYourGame/
+
+
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.idea
+
+# Готовые билды
+*.apk
+*.unitypackage
